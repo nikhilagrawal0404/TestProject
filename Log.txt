@@ -4,3 +4,5 @@ First changed in log file
 
 
 second changed.
+
+Change in branch1.
