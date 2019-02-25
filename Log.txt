@@ -1,0 +1,3 @@
+Hi 
+
+First changed in log file
